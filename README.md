@@ -7,15 +7,15 @@
 
 ---
 
-## 🎯 Contexto e Objetivos
+## 📌 Sobre o Projeto
 
-Este projeto explora o uso da Inteligência Artificial como ferramenta de aprendizagem aplicada à experiência do usuário (UX) em produtos digitais.
+Este projeto foi desenvolvido como parte de um desafio prático do curso **GenAI & Dados da DIO**, com o objetivo de explorar o uso da Inteligência Artificial como ferramenta de aprendizagem ativa, utilizando o NotebookLM.
 
-O estudo foi desenvolvido a partir de cenários práticos, com foco em plataformas de compra e venda de ingressos (cinema, shows e eventos), onde a experiência do usuário está diretamente relacionada a métricas como conversão, retenção e eficiência da jornada.
+O estudo investiga a aplicação de IA na experiência do usuário (UX) em produtos digitais, a partir de cenários práticos como plataformas de compra e venda de ingressos (cinema, shows e eventos), onde a experiência impacta diretamente métricas como conversão, retenção e eficiência da jornada.
 
-A proposta integra conceitos de experiência do usuário com fundamentos técnicos de desenvolvimento de sistemas, buscando compreender como tecnologia, dados e design se conectam na construção de produtos digitais mais eficientes.
+A proposta integra conceitos de UX com fundamentos técnicos de desenvolvimento de sistemas, conectando tecnologia, dados e experiência na construção de produtos digitais mais eficientes.
 
-Objetivos específicos:
+Objetivos:
 - Explorar o uso da IA como apoio ao aprendizado e análise  
 - Compreender como UX impacta métricas de produto  
 - Investigar aplicações de personalização e previsão de comportamento  
